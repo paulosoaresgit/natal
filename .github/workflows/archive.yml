@@ -1,0 +1,49 @@
+name: Save page snapshot
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - mirror.py
+      - .github/workflows/archive.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Download the page HTML
+        run: |
+          curl --fail --location --retry 3 --silent --show-error \
+            https://thechristmaspalace.com/pages/up-to-50-off-sale \
+            --output source.html
+      - name: Download referenced photos and styles
+        run: python3 mirror.py
+      - name: Verify snapshot
+        run: |
+          python3 - <<'PY'
+          import json
+          import pathlib
+          data = json.loads(pathlib.Path('assets-manifest.json').read_text())
+          entries = list(data['files'].values())
+          assert len(entries) >= 175, f'Only {len(entries)} assets found'
+          assert all(not entry['error'] for entry in entries), 'Missing asset downloads'
+          assert pathlib.Path('index.html').stat().st_size > 100000
+          print(f'Validated {len(entries)} archived assets')
+          PY
+      - name: Commit the static snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html source.html assets-manifest.json assets
+          if ! git diff --cached --quiet; then
+            git commit -m "Archive original Christmas Palace sale page and assets"
+            git push origin HEAD:main
+          fi
