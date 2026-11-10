@@ -1,0 +1,1285 @@
+{
+  "original": "https://thechristmaspalace.com/pages/up-to-50-off-sale",
+  "files": {
+    "https://thechristmaspalace.com/cdn/shop/files/santa-hat_2eabc0b5-d10a-4e00-9812-ee147f8a56d4.webp": {
+      "bytes": 2880,
+      "error": null,
+      "path": "assets/images/santa-hat_2eabc0b5-d10a-4e00-9812-ee147f8a-b65263854a263a1c.webp"
+    },
+    "http://thechristmaspalace.com/cdn/shop/files/christmas-warm_572c08df-7b82-4a1a-901d-c6047af21573.jpg": {
+      "bytes": 327221,
+      "error": null,
+      "path": "assets/images/christmas-warm_572c08df-7b82-4a1a-901d-c60-c55364db0e977691.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/christmas-warm_572c08df-7b82-4a1a-901d-c6047af21573.jpg": {
+      "bytes": 327221,
+      "error": null,
+      "path": "assets/images/christmas-warm_572c08df-7b82-4a1a-901d-c60-09dfa13ac1d2e4c4.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/constants.js": {
+      "bytes": 258,
+      "error": null,
+      "path": "assets/code/constants-3687621db5d2c3db.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/pubsub.js": {
+      "bytes": 786,
+      "error": null,
+      "path": "assets/code/pubsub-b4cd95f1b41ae965.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/global.js": {
+      "bytes": 36664,
+      "error": null,
+      "path": "assets/code/global-b8e4fdc299de7c6d.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/details-disclosure.js": {
+      "bytes": 1441,
+      "error": null,
+      "path": "assets/code/details-disclosure-a1e0baf9c7569ac7.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/details-modal.js": {
+      "bytes": 1555,
+      "error": null,
+      "path": "assets/code/details-modal-920d2ad3df1561a1.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/search-form.js": {
+      "bytes": 995,
+      "error": null,
+      "path": "assets/code/search-form-de4f4e4c1b6cb3ac.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/animations.js": {
+      "bytes": 2930,
+      "error": null,
+      "path": "assets/code/animations-fb049e23d92e680f.js"
+    },
+    "https://thechristmaspalace.com/cdn/shopifycloud/storefront/assets/storefront/load_feature-ed94c51f.js": {
+      "bytes": 14007,
+      "error": null,
+      "path": "assets/code/load_feature-ed94c51f-736dc418ff236a6b.js"
+    },
+    "https://thechristmaspalace.com/cdn/shopifycloud/storefront/assets/storefront/autosizes-84416378.js": {
+      "bytes": 3327,
+      "error": null,
+      "path": "assets/code/autosizes-84416378-7d9ac632b5958c95.js"
+    },
+    "https://thechristmaspalace.com/cdn/shopifycloud/storefront/assets/shopify_pay/storefront-f0e26bdf.js": {
+      "bytes": 69305,
+      "error": null,
+      "path": "assets/code/storefront-f0e26bdf-0f56ca7a33d0af01.js"
+    },
+    "https://thechristmaspalace.com/cdn/shopifycloud/portable-wallets/latest/portable-wallets.en.js": {
+      "bytes": 377310,
+      "error": null,
+      "path": "assets/code/portable-wallets-en-dc38825e836e25d6.js"
+    },
+    "https://thechristmaspalace.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css": {
+      "bytes": 13728,
+      "error": null,
+      "path": "assets/code/accelerated-checkout-backwards-compat-f311e08500918861.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/compiled_assets/scripts.js": {
+      "bytes": 9682,
+      "error": null,
+      "path": "assets/code/scripts-a8b06667ea8c05f2.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-alegreya-400-900-italic-latin.woff2": {
+      "bytes": 44720,
+      "error": null,
+      "path": "assets/code/google-alegreya-400-900-italic-latin-15e577d6cdfff0dc.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-alegreya-400-900-italic-latin-ext.woff2": {
+      "bytes": 38824,
+      "error": null,
+      "path": "assets/code/google-alegreya-400-900-italic-latin-ext-b906bcace9c5b4dc.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-alegreya-400-900-normal-latin.woff2": {
+      "bytes": 43800,
+      "error": null,
+      "path": "assets/code/google-alegreya-400-900-normal-latin-0f9fc09dcd15a2fa.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-alegreya-400-900-normal-latin-ext.woff2": {
+      "bytes": 38324,
+      "error": null,
+      "path": "assets/code/google-alegreya-400-900-normal-latin-ext-c429baba7ee889a1.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-dm-sans-400-normal-latin.woff2": {
+      "bytes": 14200,
+      "error": null,
+      "path": "assets/code/google-dm-sans-400-normal-latin-74214f6016019866.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-dm-sans-400-normal-latin-ext.woff2": {
+      "bytes": 7364,
+      "error": null,
+      "path": "assets/code/google-dm-sans-400-normal-latin-ext-553a0480730cc985.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-eb-garamond-400-800-italic-latin.woff2": {
+      "bytes": 42400,
+      "error": null,
+      "path": "assets/code/google-eb-garamond-400-800-italic-latin-1870cd8798dbd8ab.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-eb-garamond-400-800-italic-latin-ext.woff2": {
+      "bytes": 91200,
+      "error": null,
+      "path": "assets/code/google-eb-garamond-400-800-italic-latin-ex-b5ee4df287261991.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-eb-garamond-400-800-normal-latin.woff2": {
+      "bytes": 41316,
+      "error": null,
+      "path": "assets/code/google-eb-garamond-400-800-normal-latin-3792572809d5e7db.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-eb-garamond-400-800-normal-latin-ext.woff2": {
+      "bytes": 116316,
+      "error": null,
+      "path": "assets/code/google-eb-garamond-400-800-normal-latin-ex-3bbf428598ca85fa.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-inter-normal-latin.woff2": {
+      "bytes": 48256,
+      "error": null,
+      "path": "assets/code/google-inter-normal-latin-9be2d0d0650681a9.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-inter-normal-latin-ext.woff2": {
+      "bytes": 85068,
+      "error": null,
+      "path": "assets/code/google-inter-normal-latin-ext-7d834a0d9071fd62.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-libre-caslon-text-400-normal-latin.woff2": {
+      "bytes": 24972,
+      "error": null,
+      "path": "assets/code/google-libre-caslon-text-400-normal-latin-4bbe0d53e784afc5.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-libre-caslon-text-400-normal-latin-ext.woff2": {
+      "bytes": 14308,
+      "error": null,
+      "path": "assets/code/google-libre-caslon-text-400-normal-latin-17c5f20a448d326c.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-playfair-display-500-normal-latin.woff2": {
+      "bytes": 23048,
+      "error": null,
+      "path": "assets/code/google-playfair-display-500-normal-latin-dee2e4666cc26338.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/google-playfair-display-500-normal-latin-ext.woff2": {
+      "bytes": 12928,
+      "error": null,
+      "path": "assets/code/google-playfair-display-500-normal-latin-e-98758cb7a845cbb5.woff2"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-regular-webfont.woff": {
+      "bytes": 18124,
+      "error": null,
+      "path": "assets/code/proximanova-regular-webfont-06ee045d02b5136e.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-regularitalic-webfont.woff": {
+      "bytes": 20368,
+      "error": null,
+      "path": "assets/code/proximanova-regularitalic-webfont-ee5e2f3296c24018.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-light-webfont.woff": {
+      "bytes": 18328,
+      "error": null,
+      "path": "assets/code/proximanova-light-webfont-965353e5d23c2c5b.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-semibold-webfont.woff": {
+      "bytes": 18428,
+      "error": null,
+      "path": "assets/code/proximanova-semibold-webfont-d2ee657c14266193.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-semibolditalic-webfont.woff": {
+      "bytes": 20312,
+      "error": null,
+      "path": "assets/code/proximanova-semibolditalic-webfont-fd76f30cf92d7ad2.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-bold-webfont.woff": {
+      "bytes": 18348,
+      "error": null,
+      "path": "assets/code/proximanova-bold-webfont-86f530922f8de25f.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-boldit-webfont.woff": {
+      "bytes": 20312,
+      "error": null,
+      "path": "assets/code/proximanova-boldit-webfont-842f025c799c93e5.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-extrabold-webfont.woff": {
+      "bytes": 18168,
+      "error": null,
+      "path": "assets/code/proximanova-extrabold-webfont-6992f1df7b4a236e.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-black-webfont.woff": {
+      "bytes": 17728,
+      "error": null,
+      "path": "assets/code/proximanova-black-webfont-145e2bdca8a1fa7e.woff"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/proximanova-semibold-webfont.ttf": {
+      "bytes": 18428,
+      "error": null,
+      "path": "assets/code/proximanova-semibold-webfont-78660dfe061c4098.ttf"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/base.css": {
+      "bytes": 68127,
+      "error": null,
+      "path": "assets/code/base-65b18e4443ce395f.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/main.css": {
+      "bytes": 107849,
+      "error": null,
+      "path": "assets/code/main-cabf5468831ae191.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/customdt-page-typography.css": {
+      "bytes": 731,
+      "error": null,
+      "path": "assets/code/customdt-page-typography-42e71986288f2786.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-cart-items.css": {
+      "bytes": 5001,
+      "error": null,
+      "path": "assets/code/component-cart-items-e5ca1744ef293931.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-cart-drawer.css": {
+      "bytes": 8994,
+      "error": null,
+      "path": "assets/code/component-cart-drawer-13579941999a390d.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-cart.css": {
+      "bytes": 2821,
+      "error": null,
+      "path": "assets/code/component-cart-c7158790fec0fc39.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-totals.css": {
+      "bytes": 493,
+      "error": null,
+      "path": "assets/code/component-totals-46e235af61ee421b.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-price.css": {
+      "bytes": 1642,
+      "error": null,
+      "path": "assets/code/component-price-0e89af42725cd159.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-discounts.css": {
+      "bytes": 562,
+      "error": null,
+      "path": "assets/code/component-discounts-06db7be5f8714698.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-localization-form.css": {
+      "bytes": 8341,
+      "error": null,
+      "path": "assets/code/component-localization-form-0f8a85022247d825.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/localization-form.js": {
+      "bytes": 5823,
+      "error": null,
+      "path": "assets/code/localization-form-65d6e34d5556b0df.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-predictive-search.css": {
+      "bytes": 4998,
+      "error": null,
+      "path": "assets/code/component-predictive-search-dd09afec6f20c50c.css"
+    },
+    "https://thechristmaspalace.com/cdn/shopifycloud/storefront/assets/shop_events_listener-819172a8.js": {
+      "bytes": 13896,
+      "error": null,
+      "path": "assets/code/shop_events_listener-819172a8-831bf3122d104658.js"
+    },
+    "https://thechristmaspalace.com/cdn/shopifycloud/perf-kit/shopify-perf-kit-3.15.1.min.js": {
+      "bytes": 84567,
+      "error": null,
+      "path": "assets/code/shopify-perf-kit-3-15-1-min-9f44f05ffea800fe.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/quantity-popover.css": {
+      "bytes": 2992,
+      "error": null,
+      "path": "assets/code/quantity-popover-15965784ee29678c.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-card.css": {
+      "bytes": 12947,
+      "error": null,
+      "path": "assets/code/component-card-cc3d3fb9c85c417b.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/cart.js": {
+      "bytes": 8716,
+      "error": null,
+      "path": "assets/code/cart-572750a3625bc5a4.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/quantity-popover.js": {
+      "bytes": 2776,
+      "error": null,
+      "path": "assets/code/quantity-popover-d4959bc5cbb57162.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-slideshow.css": {
+      "bytes": 3674,
+      "error": null,
+      "path": "assets/code/component-slideshow-4f94bfbd8b2e3e9c.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-slider.css": {
+      "bytes": 7896,
+      "error": null,
+      "path": "assets/code/component-slider-efcd208159f5c790.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/countdown.js": {
+      "bytes": 3064,
+      "error": null,
+      "path": "assets/code/countdown-927cf2fc2d56b579.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-list-menu.css": {
+      "bytes": 516,
+      "error": null,
+      "path": "assets/code/component-list-menu-abec3552e1501780.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-search.css": {
+      "bytes": 1353,
+      "error": null,
+      "path": "assets/code/component-search-1225970d78a98772.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-menu-drawer.css": {
+      "bytes": 6531,
+      "error": null,
+      "path": "assets/code/component-menu-drawer-4efa73af11bb8152.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-cart-notification.css": {
+      "bytes": 2692,
+      "error": null,
+      "path": "assets/code/component-cart-notification-df268c5338f63a71.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/cart-notification.js": {
+      "bytes": 1915,
+      "error": null,
+      "path": "assets/code/cart-notification-0cf63182a84a9a50.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/image_12_1_1.webp": {
+      "bytes": 60875,
+      "error": null,
+      "path": "assets/images/image_12_1_1-d32b003d0050c0c3.webp"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/image_12_1.webp": {
+      "bytes": 60875,
+      "error": null,
+      "path": "assets/images/image_12_1-c9395af372249daa.webp"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/customdt-list-collections.css": {
+      "bytes": 1814,
+      "error": null,
+      "path": "assets/code/customdt-list-collections-e245579cb31c0faf.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/customdt-collection-banner.css": {
+      "bytes": 2886,
+      "error": null,
+      "path": "assets/code/customdt-collection-banner-f659e5706fe0037c.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/customdt-collection-card.css": {
+      "bytes": 3162,
+      "error": null,
+      "path": "assets/code/customdt-collection-card-6f3e3832efaecf34.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/customdt-card-title-equalize.js": {
+      "bytes": 1472,
+      "error": null,
+      "path": "assets/code/customdt-card-title-equalize-859d6724b89eca39.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/tcp-banner-desktop-AUG2_88d3d89d-0df4-42e0-81de-baff2f6c50d2.png": {
+      "bytes": 998979,
+      "error": null,
+      "path": "assets/images/tcp-banner-desktop-AUG2_88d3d89d-0df4-42e0-9fb12dc9b1705eff.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/component-facets.css": {
+      "bytes": 21856,
+      "error": null,
+      "path": "assets/code/component-facets-266917826f3bfac8.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/facets.js": {
+      "bytes": 12570,
+      "error": null,
+      "path": "assets/code/facets-a070ca974bc12270.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/collection-product-search.js": {
+      "bytes": 2999,
+      "error": null,
+      "path": "assets/code/collection-product-search-7bfcdfc11c340183.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/collection-search-portal.js": {
+      "bytes": 675,
+      "error": null,
+      "path": "assets/code/collection-search-portal-32f5c50dd0ccf8a9.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10862_AI.png": {
+      "bytes": 1311781,
+      "error": null,
+      "path": "assets/images/10862_AI-ebe607fc834bcc05.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/ONE-square-professional-e-commerce-produ.png": {
+      "bytes": 1247477,
+      "error": null,
+      "path": "assets/images/ONE-square-professional-e-commerce-produ-abc284edde1e717e.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/ONE-square-e-commerce-photograph-Precis.png": {
+      "bytes": 1288951,
+      "error": null,
+      "path": "assets/images/ONE-square-e-commerce-photograph-Precis-d04a266f53d67a2f.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671410866_3_4fce7aac-8a74-456b-9281-2df982df01dd.png": {
+      "bytes": 1120653,
+      "error": null,
+      "path": "assets/images/0671410866_3_4fce7aac-8a74-456b-9281-2df98-989ff0f7cb867fa1.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10867_AI.png": {
+      "bytes": 1328159,
+      "error": null,
+      "path": "assets/images/10867_AI-eb9f54b36c04fa2a.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10881_AI_9a9ba040-f328-4d89-834f-c1b741e9b6b1.png": {
+      "bytes": 1401975,
+      "error": null,
+      "path": "assets/images/10881_AI_9a9ba040-f328-4d89-834f-c1b741e9b-d592eaa97ac2f6b5.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10882_AI.png": {
+      "bytes": 1370532,
+      "error": null,
+      "path": "assets/images/10882_AI-df9c6e7ec14a8416.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/Precise-photographic-compositing-square.png": {
+      "bytes": 1331016,
+      "error": null,
+      "path": "assets/images/Precise-photographic-compositing-square-2bc9b1a7640a6114.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10884_AI.png": {
+      "bytes": 1398176,
+      "error": null,
+      "path": "assets/images/10884_AI-ad678b736bd53e3c.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/Create-a-square-professional-ecommerce-p.png": {
+      "bytes": 1351979,
+      "error": null,
+      "path": "assets/images/Create-a-square-professional-ecommerce-p-91c689fe1d8856c5.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/1_0671472460.png": {
+      "bytes": 2013926,
+      "error": null,
+      "path": "assets/images/1_0671472460-459e0bfcfe01f76b.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/2_0671482960.png": {
+      "bytes": 1786988,
+      "error": null,
+      "path": "assets/images/2_0671482960-ca1c1d67a6d79b8f.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/3_0671480990.png": {
+      "bytes": 1800201,
+      "error": null,
+      "path": "assets/images/3_0671480990-ddf6d8542028b2da.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671470480_1.jpg": {
+      "bytes": 298024,
+      "error": null,
+      "path": "assets/images/0671470480_1-e3579a8a190dfb6c.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/5_0671422460.png": {
+      "bytes": 1774296,
+      "error": null,
+      "path": "assets/images/5_0671422460-f45a21f431545b65.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/6_0671420460.png": {
+      "bytes": 1788513,
+      "error": null,
+      "path": "assets/images/6_0671420460-fcbb81bc67475723.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/7_0671412260.png": {
+      "bytes": 1869327,
+      "error": null,
+      "path": "assets/images/7_0671412260-7cc61ec485874233.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/8_0671452150.png": {
+      "bytes": 1875979,
+      "error": null,
+      "path": "assets/images/8_0671452150-13ca280492dc41b7.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/9_0671450170.png": {
+      "bytes": 1758170,
+      "error": null,
+      "path": "assets/images/9_0671450170-9c551979b4f6ac9e.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10_0671472660.png": {
+      "bytes": 1954083,
+      "error": null,
+      "path": "assets/images/10_0671472660-da1581c9a5b43b10.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/28_0671430577.png": {
+      "bytes": 1738231,
+      "error": null,
+      "path": "assets/images/28_0671430577-6a8d372abee10037.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/Engage_Media__A_grand_shopping_mall_atrium_decorated_for_Christmas._The_large_3a44a7d2-ed9b-404d-a590-155144d3d18d.jpg": {
+      "bytes": 272249,
+      "error": null,
+      "path": "assets/images/Engage_Media__A_grand_shopping_mall_atrium-cb7dab9a56c9bcd8.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/23_4009250817.png": {
+      "bytes": 1916433,
+      "error": null,
+      "path": "assets/images/23_4009250817-d0eaa6942361f740.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/158_4009251951---24c3badf-0a2a-4dbf-a754-3069ab76d7cd.png": {
+      "bytes": 1659663,
+      "error": null,
+      "path": "assets/images/158_4009251951---24c3badf-0a2a-4dbf-a754-3-1f0ac3224fed300e.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/01_0671499212.png": {
+      "bytes": 2028265,
+      "error": null,
+      "path": "assets/images/01_0671499212-f45eb17308645d76.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/03_0671499213.png": {
+      "bytes": 2099837,
+      "error": null,
+      "path": "assets/images/03_0671499213-12dcbe98a406d162.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/04_0671499214.png": {
+      "bytes": 1995756,
+      "error": null,
+      "path": "assets/images/04_0671499214-012d8f05ee5558cd.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/05_0671499237.png": {
+      "bytes": 2121603,
+      "error": null,
+      "path": "assets/images/05_0671499237-fa28935d5df4e2c3.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/06_0671499210.png": {
+      "bytes": 1796223,
+      "error": null,
+      "path": "assets/images/06_0671499210-d148cb6d9cf8171e.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/07_0671499287.png": {
+      "bytes": 1671140,
+      "error": null,
+      "path": "assets/images/07_0671499287-dea6f6d931bbc57e.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/02-0671400040.png": {
+      "bytes": 1633068,
+      "error": null,
+      "path": "assets/images/02-0671400040-c27d0540272ffe08.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/03-0671410105.png": {
+      "bytes": 1721449,
+      "error": null,
+      "path": "assets/images/03-0671410105-3eeca705cb60284a.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/04-0671410033.png": {
+      "bytes": 1705052,
+      "error": null,
+      "path": "assets/images/04-0671410033-21af5626b4084e12.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/05-3950266857.png": {
+      "bytes": 1613238,
+      "error": null,
+      "path": "assets/images/05-3950266857-a7ab6730f5fd7d05.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/06-0671408270_ce8d6aec-73cc-4673-8e88-07c3ab99626a.png": {
+      "bytes": 1747219,
+      "error": null,
+      "path": "assets/images/06-0671408270_ce8d6aec-73cc-4673-8e88-07c3-ed6f2feb8df643d2.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/08-0671411061.png": {
+      "bytes": 1676546,
+      "error": null,
+      "path": "assets/images/08-0671411061-dd2853ffca3ca7a2.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/09-0796229880.png": {
+      "bytes": 1862879,
+      "error": null,
+      "path": "assets/images/09-0796229880-d79ac3708b997c6f.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10-0671411242.png": {
+      "bytes": 1753919,
+      "error": null,
+      "path": "assets/images/10-0671411242-f73a1407fc9be24a.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/11-0671411063.png": {
+      "bytes": 1828014,
+      "error": null,
+      "path": "assets/images/11-0671411063-b6f3c75254ed4dbc.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/12-0671410064.png": {
+      "bytes": 1785342,
+      "error": null,
+      "path": "assets/images/12-0671410064-effc6358d6ea9a65.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409563_1.jpg": {
+      "bytes": 511660,
+      "error": null,
+      "path": "assets/images/0671409563_1-333160b42b6f99b3.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409521_1.jpg": {
+      "bytes": 536601,
+      "error": null,
+      "path": "assets/images/0671409521_1-9ce65587f0af7d5a.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409462_1.jpg": {
+      "bytes": 578480,
+      "error": null,
+      "path": "assets/images/0671409462_1-c16f6c75bc75b116.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409212_6.jpg": {
+      "bytes": 783658,
+      "error": null,
+      "path": "assets/images/0671409212_6-b90ec8306749a205.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409712_1.jpg": {
+      "bytes": 531936,
+      "error": null,
+      "path": "assets/images/0671409712_1-7ad330706e9dfdbf.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409658_1.jpg": {
+      "bytes": 673897,
+      "error": null,
+      "path": "assets/images/0671409658_1-e663132d60157ee5.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409004_3.jpg": {
+      "bytes": 556671,
+      "error": null,
+      "path": "assets/images/0671409004_3-dfdba9f7767bf50f.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409725_1.jpg": {
+      "bytes": 378715,
+      "error": null,
+      "path": "assets/images/0671409725_1-5679c470f2f48db5.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409729_1.jpg": {
+      "bytes": 434252,
+      "error": null,
+      "path": "assets/images/0671409729_1-052a63cc6bf83584.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409903_2.jpg": {
+      "bytes": 563056,
+      "error": null,
+      "path": "assets/images/0671409903_2-6600f76f72e8656d.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/001_0671403355_refstyle_1x1_0c5053d0-71fb-4d2b-9df7-fa0d9b52c7d4.png": {
+      "bytes": 2233550,
+      "error": null,
+      "path": "assets/images/001_0671403355_refstyle_1x1_0c5053d0-71fb-4b203081fa8d0d3e.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/002_0671403354_refstyle_1x1_ff29d4ce-af9f-454c-b280-5280ec89e05e.png": {
+      "bytes": 2171535,
+      "error": null,
+      "path": "assets/images/002_0671403354_refstyle_1x1_ff29d4ce-af9f-010777a71534a201.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671403359_1.jpg": {
+      "bytes": 553130,
+      "error": null,
+      "path": "assets/images/0671403359_1-1424f67b1ecd4e0e.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/004_0671403364_refstyle_1x1_3e849bca-3537-4092-9d80-986cb52e41e4.png": {
+      "bytes": 2172731,
+      "error": null,
+      "path": "assets/images/004_0671403364_refstyle_1x1_3e849bca-3537-d3ee3cd72f932aca.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/005_0671403357_refstyle_1x1_ddc45c1c-1387-4f01-970e-9a58b32eb2dd.png": {
+      "bytes": 2506179,
+      "error": null,
+      "path": "assets/images/005_0671403357_refstyle_1x1_ddc45c1c-1387-ed76380e6a5ff67d.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/006_0671493600_refstyle_1x1_4bf4983e-b9dc-4378-8c78-1ed089be0442.png": {
+      "bytes": 2174347,
+      "error": null,
+      "path": "assets/images/006_0671493600_refstyle_1x1_4bf4983e-b9dc-ccd9e569daba93cb.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/007_0671403397_refstyle_1x1_a84a1acf-2046-4f90-9049-3a9c225d44ba.png": {
+      "bytes": 2373892,
+      "error": null,
+      "path": "assets/images/007_0671403397_refstyle_1x1_a84a1acf-2046-286d6d0f7e664516.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/008_0671403369_refstyle_1x1_10ab31ae-68e2-49d6-a142-ee96386346b2.png": {
+      "bytes": 2361068,
+      "error": null,
+      "path": "assets/images/008_0671403369_refstyle_1x1_10ab31ae-68e2-e4f3afffe095644d.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/009_0671403367_refstyle_1x1_efb4995b-bd17-45c5-844b-c1fd9ec8a4b8.png": {
+      "bytes": 2197623,
+      "error": null,
+      "path": "assets/images/009_0671403367_refstyle_1x1_efb4995b-bd17-ba51edbd8dc0de41.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/010_0671403366_refstyle_1x1_6bc47726-58d2-4f12-9615-fc21a89d8fee.png": {
+      "bytes": 2242209,
+      "error": null,
+      "path": "assets/images/010_0671403366_refstyle_1x1_6bc47726-58d2-7564ebac41be5618.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408396.jpg": {
+      "bytes": 158135,
+      "error": null,
+      "path": "assets/images/0671408396-1bc35c3160f4c6aa.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408655.jpg": {
+      "bytes": 99035,
+      "error": null,
+      "path": "assets/images/0671408655-ffb3c9dabb1a1e89.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408386_48d7d4aa-2dad-4104-b510-42c26d2ee702.jpg": {
+      "bytes": 135505,
+      "error": null,
+      "path": "assets/images/0671408386_48d7d4aa-2dad-4104-b510-42c26d2-bb37e3d1df73f847.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408679_67073b44-b77d-44e5-8407-0ff478c2170b.jpg": {
+      "bytes": 97354,
+      "error": null,
+      "path": "assets/images/0671408679_67073b44-b77d-44e5-8407-0ff478c-fd54d5802ae8e08a.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408381.jpg": {
+      "bytes": 150736,
+      "error": null,
+      "path": "assets/images/0671408381-8eb15f346e462c02.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408217_1.jpg": {
+      "bytes": 111762,
+      "error": null,
+      "path": "assets/images/0671408217_1-48abc6099b727023.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408216_1.jpg": {
+      "bytes": 115098,
+      "error": null,
+      "path": "assets/images/0671408216_1-11747c843215ca42.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408210_1.jpg": {
+      "bytes": 118004,
+      "error": null,
+      "path": "assets/images/0671408210_1-b1df7eacd9e6bb7a.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408215_1.jpg": {
+      "bytes": 111300,
+      "error": null,
+      "path": "assets/images/0671408215_1-5da8a5fa8d2e1947.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408219_1.jpg": {
+      "bytes": 121928,
+      "error": null,
+      "path": "assets/images/0671408219_1-867b62324657ce1f.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671474022_1.jpg": {
+      "bytes": 443999,
+      "error": null,
+      "path": "assets/images/0671474022_1-6817a8fae14678dd.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671474034_1.jpg": {
+      "bytes": 395983,
+      "error": null,
+      "path": "assets/images/0671474034_1-94b597549fc4774b.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671474026_1.jpg": {
+      "bytes": 436078,
+      "error": null,
+      "path": "assets/images/0671474026_1-8bebc799ce0d0ba2.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671474060_1.jpg": {
+      "bytes": 720002,
+      "error": null,
+      "path": "assets/images/0671474060_1-887651de631b3cfb.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671473124.jpg": {
+      "bytes": 323313,
+      "error": null,
+      "path": "assets/images/0671473124-2c4eab502bb7ba25.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671473005.jpg": {
+      "bytes": 404408,
+      "error": null,
+      "path": "assets/images/0671473005-85e503242c9d1583.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671474030_1.jpg": {
+      "bytes": 355211,
+      "error": null,
+      "path": "assets/images/0671474030_1-870e3729f19c4ab2.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671473103_1.jpg": {
+      "bytes": 320594,
+      "error": null,
+      "path": "assets/images/0671473103_1-afab50077ca1991e.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671473050_1.jpg": {
+      "bytes": 367025,
+      "error": null,
+      "path": "assets/images/0671473050_1-531ed1c5133bd143.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671474005_1.jpg": {
+      "bytes": 364785,
+      "error": null,
+      "path": "assets/images/0671474005_1-980c24de67f7bfbe.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671404503.jpg": {
+      "bytes": 576399,
+      "error": null,
+      "path": "assets/images/0671404503-b8671e1695cc4903.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671460777_7077fc3c-c7d4-4396-bfa9-b5ef726fd98f.jpg": {
+      "bytes": 496998,
+      "error": null,
+      "path": "assets/images/0671460777_7077fc3c-c7d4-4396-bfa9-b5ef726-41bece742f096afe.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671404527.jpg": {
+      "bytes": 442702,
+      "error": null,
+      "path": "assets/images/0671404527-8eba8d0215c8238c.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671406949_2.jpg": {
+      "bytes": 390117,
+      "error": null,
+      "path": "assets/images/0671406949_2-9ffbf211bbf9196d.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671404530.jpg": {
+      "bytes": 493954,
+      "error": null,
+      "path": "assets/images/0671404530-9da1e8ac966217df.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671406645.jpg": {
+      "bytes": 457346,
+      "error": null,
+      "path": "assets/images/0671406645-d7d2419991893378.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/3384958768_9b06ae1a-9825-42b7-ba5b-2b1142c1b514.jpg": {
+      "bytes": 469722,
+      "error": null,
+      "path": "assets/images/3384958768_9b06ae1a-9825-42b7-ba5b-2b1142c-918be874f612392a.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671404501_1.jpg": {
+      "bytes": 571854,
+      "error": null,
+      "path": "assets/images/0671404501_1-03e1d2f7fd132ddd.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671404526.jpg": {
+      "bytes": 473111,
+      "error": null,
+      "path": "assets/images/0671404526-54126142836e4506.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671460790_34f70b12-42ed-47af-9046-a2deb096d4f2.jpg": {
+      "bytes": 422627,
+      "error": null,
+      "path": "assets/images/0671460790_34f70b12-42ed-47af-9046-a2deb09-ee53bc87d9197cea.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/JimMarvintree.jpg": {
+      "bytes": 188718,
+      "error": null,
+      "path": "assets/images/JimMarvintree-0e151ba274adce52.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017380032_1.jpg": {
+      "bytes": 329339,
+      "error": null,
+      "path": "assets/images/4017380032_1-858925cc5f2fb1d3.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017387765_1.jpg": {
+      "bytes": 262841,
+      "error": null,
+      "path": "assets/images/4017387765_1-5b5633149896db73.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017380054.jpg": {
+      "bytes": 277387,
+      "error": null,
+      "path": "assets/images/4017380054-b54537ec0e817a72.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017387707_1.jpg": {
+      "bytes": 258297,
+      "error": null,
+      "path": "assets/images/4017387707_1-674f2aba7eafaf75.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017387806_1.jpg": {
+      "bytes": 261257,
+      "error": null,
+      "path": "assets/images/4017387806_1-c5e9b64a47c188d6.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017387757_1.jpg": {
+      "bytes": 297409,
+      "error": null,
+      "path": "assets/images/4017387757_1-e7deb5761c52f70f.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017387771_1.jpg": {
+      "bytes": 259035,
+      "error": null,
+      "path": "assets/images/4017387771_1-c0f4b80079b6b7bf.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017387774_1.jpg": {
+      "bytes": 378103,
+      "error": null,
+      "path": "assets/images/4017387774_1-7ec917c151104199.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4017387779_1.jpg": {
+      "bytes": 320669,
+      "error": null,
+      "path": "assets/images/4017387779_1-0800794f6fc7e2ba.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671490711_2.jpg": {
+      "bytes": 658521,
+      "error": null,
+      "path": "assets/images/0671490711_2-e06b4b1f71f8aece.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671490702_3_38d0a664-bb22-4cf3-a9a7-199c00d83b0d.jpg": {
+      "bytes": 544750,
+      "error": null,
+      "path": "assets/images/0671490702_3_38d0a664-bb22-4cf3-a9a7-199c0-80a0b5853492a674.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671407213.png": {
+      "bytes": 2280230,
+      "error": null,
+      "path": "assets/images/0671407213-1623d32091b29597.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671490707.png": {
+      "bytes": 2823238,
+      "error": null,
+      "path": "assets/images/0671490707-5ca8ee7cd3071942.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671403370_c16d3286-d100-4e29-a724-b7d72bea69bd.jpg": {
+      "bytes": 546662,
+      "error": null,
+      "path": "assets/images/0671403370_c16d3286-d100-4e29-a724-b7d72be-ade5ebfb6fac75fa.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/28_0671490501_WHITE-BLUE-SILVER.png": {
+      "bytes": 2328641,
+      "error": null,
+      "path": "assets/images/28_0671490501_WHITE-BLUE-SILVER-5d9aa48af7c60281.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671407210.png": {
+      "bytes": 2330046,
+      "error": null,
+      "path": "assets/images/0671407210-dd884ad41f6addc5.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/671490154-2.jpg": {
+      "bytes": 571598,
+      "error": null,
+      "path": "assets/images/671490154-2-a8076e5c978dafb3.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/671407780-2.jpg": {
+      "bytes": 507612,
+      "error": null,
+      "path": "assets/images/671407780-2-0dfc80c82aaaf051.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671407897_e599588a-a451-4b1a-9274-fbb434f4a0a5.jpg": {
+      "bytes": 360146,
+      "error": null,
+      "path": "assets/images/0671407897_e599588a-a451-4b1a-9274-fbb434f-7f22313d05f9e214.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408623_6.jpg": {
+      "bytes": 627180,
+      "error": null,
+      "path": "assets/images/0671408623_6-352d088a5db3e277.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409431_6_0f5df1a9-acb6-4590-b85a-8a46e6952fbc.jpg": {
+      "bytes": 795145,
+      "error": null,
+      "path": "assets/images/0671409431_6_0f5df1a9-acb6-4590-b85a-8a46e-6958b631273e7396.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409116_6.jpg": {
+      "bytes": 614186,
+      "error": null,
+      "path": "assets/images/0671409116_6-86ede1f9bb8815a3.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409220_7.jpg": {
+      "bytes": 755303,
+      "error": null,
+      "path": "assets/images/0671409220_7-36fa721afb28d107.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408631_6.jpg": {
+      "bytes": 676969,
+      "error": null,
+      "path": "assets/images/0671408631_6-8e6b4cf0c5278202.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408628_6.jpg": {
+      "bytes": 514110,
+      "error": null,
+      "path": "assets/images/0671408628_6-892dbf34b3834bfc.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409086_6.jpg": {
+      "bytes": 493450,
+      "error": null,
+      "path": "assets/images/0671409086_6-0bff3009fa1472d4.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408636_1.jpg": {
+      "bytes": 469232,
+      "error": null,
+      "path": "assets/images/0671408636_1-e08a8e98120e19e0.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408534_6.jpg": {
+      "bytes": 636765,
+      "error": null,
+      "path": "assets/images/0671408534_6-336c019501e08cb1.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408647_6.jpg": {
+      "bytes": 687030,
+      "error": null,
+      "path": "assets/images/0671408647_6-8c16ea5e393dc9da.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/001_4390327480_main_indoor_1x1_eae47ab2-ab20-4e19-b297-b5871403aa5f.png": {
+      "bytes": 1428575,
+      "error": null,
+      "path": "assets/images/001_4390327480_main_indoor_1x1_eae47ab2-ab-4528f4ed45cfdf31.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/002_4390327186_main_indoor_1x1_df989bb4-3778-4611-97a7-8a6bf17066b7.png": {
+      "bytes": 1486705,
+      "error": null,
+      "path": "assets/images/002_4390327186_main_indoor_1x1_df989bb4-37-5f6c5a878d8a28fb.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/003_4390327190_main_indoor_1x1_5f24375a-4a99-4542-8577-75bb13be3a86.png": {
+      "bytes": 1600219,
+      "error": null,
+      "path": "assets/images/003_4390327190_main_indoor_1x1_5f24375a-4a-839172740be52f04.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/004_4390327482_main_indoor_1x1_55045669-a1b9-48ed-ad7a-3a10d7b750d7.png": {
+      "bytes": 1472851,
+      "error": null,
+      "path": "assets/images/004_4390327482_main_indoor_1x1_55045669-a1-b43a6bfbc1ed42fc.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/005_4390315754_main_indoor_1x1_b2554c7a-ce01-4747-ac7d-fc616641a7b6.png": {
+      "bytes": 1670335,
+      "error": null,
+      "path": "assets/images/005_4390315754_main_indoor_1x1_b2554c7a-ce-f357b51f25a9da23.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/680375s5.jpg": {
+      "bytes": 294891,
+      "error": null,
+      "path": "assets/images/680375s5-a7da7469f892be76.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/007_0671412306_main_indoor_1x1_3e8e47bd-e2be-4767-bc7d-c384b991ccc3.png": {
+      "bytes": 1546055,
+      "error": null,
+      "path": "assets/images/007_0671412306_main_indoor_1x1_3e8e47bd-e2-1272f23a9f721c50.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/050_WRTHGRLDBDLKIT_integrated_1x1_8c78a876-07c6-4625-90d4-5e676ff049fb.png": {
+      "bytes": 1863327,
+      "error": null,
+      "path": "assets/images/050_WRTHGRLDBDLKIT_integrated_1x1_8c78a876-7252432ab44f5f55.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/009_0671479160_main_indoor_1x1_03d6d01a-fe06-49be-9b4a-f0af6aaff4d3.png": {
+      "bytes": 2125648,
+      "error": null,
+      "path": "assets/images/009_0671479160_main_indoor_1x1_03d6d01a-fe-0376a39e26cbe17a.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408939_2.jpg": {
+      "bytes": 442634,
+      "error": null,
+      "path": "assets/images/0671408939_2-8a04eee7d93dfd45.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/001_0671403580_integrated_1x1_6c4a52a6-0bc2-4ba4-bdb0-a3f582407af0.png": {
+      "bytes": 1633561,
+      "error": null,
+      "path": "assets/images/001_0671403580_integrated_1x1_6c4a52a6-0bc-8b4ffca8ddc51f16.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/002_0671403585_integrated_1x1_4354249b-ce12-4192-b398-24977240ad28.png": {
+      "bytes": 1506898,
+      "error": null,
+      "path": "assets/images/002_0671403585_integrated_1x1_4354249b-ce1-beb2fbefd92c42e8.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671403581.jpg": {
+      "bytes": 224434,
+      "error": null,
+      "path": "assets/images/0671403581-d2c877fe0d024e17.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/004_0671403584_integrated_1x1_d48a8e86-0770-4838-952d-50de008a899b.png": {
+      "bytes": 1472926,
+      "error": null,
+      "path": "assets/images/004_0671403584_integrated_1x1_d48a8e86-077-5efd5cd272100768.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/005_0671403582_integrated_1x1_8675252b-13ac-404f-86e7-f3ac17f974ba.png": {
+      "bytes": 1655647,
+      "error": null,
+      "path": "assets/images/005_0671403582_integrated_1x1_8675252b-13a-044fcaa821918a21.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/006_0671403586_integrated_1x1_b534b571-483d-4c66-bffe-6d6600eeb15f.png": {
+      "bytes": 1579860,
+      "error": null,
+      "path": "assets/images/006_0671403586_integrated_1x1_b534b571-483-74b59d2a792269f6.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/009_8003647129_integrated_1x1_3ae069e0-7754-4c31-a85d-b6591f3aaa71.png": {
+      "bytes": 1942218,
+      "error": null,
+      "path": "assets/images/009_8003647129_integrated_1x1_3ae069e0-775-eeb7589402486c18.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/W4609829.webp": {
+      "bytes": 238047,
+      "error": null,
+      "path": "assets/images/W4609829-3ffd3a0a24007530.webp"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/011_4889396640_integrated_1x1_a0acc016-02c0-41e5-9d37-2980a1b6aed3.png": {
+      "bytes": 1799690,
+      "error": null,
+      "path": "assets/images/011_4889396640_integrated_1x1_a0acc016-02c-9c2f0a62f8e5aaa1.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/012_4889342380_integrated_1x1_a86799f2-c6bc-47c5-9a7f-6eae926930fb.png": {
+      "bytes": 1779979,
+      "error": null,
+      "path": "assets/images/012_4889342380_integrated_1x1_a86799f2-c6b-07151d73d7a10cb5.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/01-0671410031.png": {
+      "bytes": 2056690,
+      "error": null,
+      "path": "assets/images/01-0671410031-fc8809742709abd3.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/02-0671410051.png": {
+      "bytes": 1975173,
+      "error": null,
+      "path": "assets/images/02-0671410051-4526f4f876fa9a52.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/03-0671410032.png": {
+      "bytes": 1953147,
+      "error": null,
+      "path": "assets/images/03-0671410032-21d0a50b26be66a6.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/04-9927853315.png": {
+      "bytes": 2120514,
+      "error": null,
+      "path": "assets/images/04-9927853315-a49a8aef988796be.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/05-0671400122.png": {
+      "bytes": 1887955,
+      "error": null,
+      "path": "assets/images/05-0671400122-edb5699c8e25b12e.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/06-9927853671.png": {
+      "bytes": 1737750,
+      "error": null,
+      "path": "assets/images/06-9927853671-c6bdde5a5679e2f7.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/07-8729347905.png": {
+      "bytes": 1901378,
+      "error": null,
+      "path": "assets/images/07-8729347905-01ddcbb8dd25cdb9.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/015_4889341428_main_commercial_1x1_df6ed8bf-d465-462e-9429-2e9b935320c9.png": {
+      "bytes": 1691318,
+      "error": null,
+      "path": "assets/images/015_4889341428_main_commercial_1x1_df6ed8b-2e3ca794429e5855.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/09-4009250816.png": {
+      "bytes": 1773094,
+      "error": null,
+      "path": "assets/images/09-4009250816-6b57b96353a64d46.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/10-4889341430.png": {
+      "bytes": 2161860,
+      "error": null,
+      "path": "assets/images/10-4889341430-f30ac3265e1b8ce2.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409287_8.jpg": {
+      "bytes": 561318,
+      "error": null,
+      "path": "assets/images/0671409287_8-3b4656f866171292.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671409286_6.jpg": {
+      "bytes": 512317,
+      "error": null,
+      "path": "assets/images/0671409286_6-ebfe439928cea687.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408501_2.jpg": {
+      "bytes": 527452,
+      "error": null,
+      "path": "assets/images/0671408501_2-a0f42a0891803e67.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408608_1.jpg": {
+      "bytes": 621813,
+      "error": null,
+      "path": "assets/images/0671408608_1-666c53cb02e0ac67.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408569_1.jpg": {
+      "bytes": 584598,
+      "error": null,
+      "path": "assets/images/0671408569_1-a4ec27c9a5d730dc.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408398_1.jpg": {
+      "bytes": 455113,
+      "error": null,
+      "path": "assets/images/0671408398_1-ed5e932a076c1b8f.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408953_a54bd830-8a8d-4373-a030-05b82fec8203.jpg": {
+      "bytes": 334441,
+      "error": null,
+      "path": "assets/images/0671408953_a54bd830-8a8d-4373-a030-05b82fe-f54568618b370813.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408408_d90c0ba9-330d-41b6-baaf-9221855a2490.jpg": {
+      "bytes": 316126,
+      "error": null,
+      "path": "assets/images/0671408408_d90c0ba9-330d-41b6-baaf-9221855-7eb579b328b97ce7.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408835.jpg": {
+      "bytes": 475235,
+      "error": null,
+      "path": "assets/images/0671408835-8f512a9bcd91b1d1.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671408836.jpg": {
+      "bytes": 445600,
+      "error": null,
+      "path": "assets/images/0671408836-5645e472e46664f6.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4390314954_c2067619-f13a-428e-89d5-150d7132d930.jpg": {
+      "bytes": 157417,
+      "error": null,
+      "path": "assets/images/4390314954_c2067619-f13a-428e-89d5-150d713-2b442962a2f20f86.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/53831x.webp": {
+      "bytes": 46153,
+      "error": null,
+      "path": "assets/images/53831x-21f4f0e9277d76fe.webp"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4390322788_2.jpg": {
+      "bytes": 249735,
+      "error": null,
+      "path": "assets/images/4390322788_2-6f0e75aaada34d39.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4390314955_a832a861-97bc-4170-9f4c-fea4b1b7c436.jpg": {
+      "bytes": 136387,
+      "error": null,
+      "path": "assets/images/4390314955_a832a861-97bc-4170-9f4c-fea4b1b-2cfa5015606e047c.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/0671411960.jpg": {
+      "bytes": 198329,
+      "error": null,
+      "path": "assets/images/0671411960-6c7e1ee3fae9391c.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4390322783_d76a454d-41b4-419d-8d10-6040b5c8bdc0.jpg": {
+      "bytes": 179074,
+      "error": null,
+      "path": "assets/images/4390322783_d76a454d-41b4-419d-8d10-6040b5c-01050a5786917198.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4390314953.jpg": {
+      "bytes": 141561,
+      "error": null,
+      "path": "assets/images/4390314953-df7b9c78d301e701.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/4390309502.jpg": {
+      "bytes": 130992,
+      "error": null,
+      "path": "assets/images/4390309502-572e6a7573598650.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/9927853590a.jpg": {
+      "bytes": 22071,
+      "error": null,
+      "path": "assets/images/9927853590a-8556e985a2aa48e9.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/9927846012.jpg": {
+      "bytes": 254622,
+      "error": null,
+      "path": "assets/images/9927846012-dcc511b4555cff4a.jpg"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/customdt-footer.css": {
+      "bytes": 3017,
+      "error": null,
+      "path": "assets/code/customdt-footer-35b23c228150bbc2.css"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/Link_3.png": {
+      "bytes": 1143,
+      "error": null,
+      "path": "assets/images/Link_3-9e3a8689db0bf7a8.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/Link_4.png": {
+      "bytes": 2008,
+      "error": null,
+      "path": "assets/images/Link_4-d135c7fe446527da.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/Slice_3_5.png": {
+      "bytes": 11140,
+      "error": null,
+      "path": "assets/images/Slice_3_5-505f269d56954a90.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/files/Slice_3_4.png": {
+      "bytes": 7266,
+      "error": null,
+      "path": "assets/images/Slice_3_4-e1fb340055e59d41.png"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/predictive-search.js": {
+      "bytes": 7955,
+      "error": null,
+      "path": "assets/code/predictive-search-b0828f77e9cdc44d.js"
+    },
+    "https://thechristmaspalace.com/cdn/shop/t/14/assets/cart-drawer.js": {
+      "bytes": 3402,
+      "error": null,
+      "path": "assets/code/cart-drawer-9402b87fba801b79.js"
+    }
+  }
+}
